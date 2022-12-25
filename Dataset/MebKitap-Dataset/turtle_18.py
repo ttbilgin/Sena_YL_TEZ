@@ -1,0 +1,10 @@
+import turtle
+kalem=turtle.Turtle()
+kalem.pencolor("orange")
+kalem.pensize(2)
+kalem.circle(20)
+kalem.pencolor("red")
+kalem.circle(30)
+kalem.pencolor("blue")
+kalem.circle(40)
+turtle.done() 
