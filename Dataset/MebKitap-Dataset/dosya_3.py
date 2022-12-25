@@ -1,0 +1,5 @@
+dosya = open("deneme.txt","r+")
+belge=dosya.read()
+print(belge)
+dosya.write("\n bu metin en sona eklendi")
+dosya.close()
