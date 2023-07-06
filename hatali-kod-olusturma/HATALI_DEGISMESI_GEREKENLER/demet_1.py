@@ -1,0 +1,2 @@
+demet = ()
+prnt(demet)
