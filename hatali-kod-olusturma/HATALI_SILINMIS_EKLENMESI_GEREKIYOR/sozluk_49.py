@@ -1,0 +1,5 @@
+dictionary= {}
+dictionary[42] = "the answer to the ultimate question of life, the universe, and 
+dictionary[1.2] = ["one point two"]
+dictionary["list"] = ["just", "a", "list", "with", "an", "integer", 3]
+print(dictionary)
