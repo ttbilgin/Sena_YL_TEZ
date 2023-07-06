@@ -1,0 +1,3 @@
+liste=[ ]
+raise
+print(liste)
