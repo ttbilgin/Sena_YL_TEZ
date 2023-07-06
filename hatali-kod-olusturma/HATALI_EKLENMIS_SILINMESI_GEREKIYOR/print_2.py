@@ -1,0 +1,2 @@
+del
+print("Merhaba, Python!")
