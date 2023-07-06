@@ -1,0 +1,2 @@
+>
+print("ahmet"+"şahin")
