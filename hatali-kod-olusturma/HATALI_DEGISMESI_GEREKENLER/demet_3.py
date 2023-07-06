@@ -1,0 +1,2 @@
+meyveler = ('erik',)
+prnt(meyveler)

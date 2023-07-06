@@ -1,0 +1,3 @@
+tuple_1 = (1, 2)
+tuple_2 = (3, 4)
+prnt((tuple_1 + tuple_2))
