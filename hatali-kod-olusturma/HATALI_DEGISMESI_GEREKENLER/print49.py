@@ -1,0 +1,1 @@
+prnt({'red', 'green', 'blue'})
