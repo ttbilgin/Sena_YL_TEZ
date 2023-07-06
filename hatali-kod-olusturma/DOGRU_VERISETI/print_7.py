@@ -1,0 +1,1 @@
+print("pazartesi \tsalı \tçarşamba")
