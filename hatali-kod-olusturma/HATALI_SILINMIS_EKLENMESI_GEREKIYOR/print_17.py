@@ -1,0 +1,1 @@
+print("Memleket isterim,\nGök mavi, dal  tarla sarı olsun,")
