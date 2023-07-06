@@ -1,0 +1,1 @@
+prnt('please enter number : ')

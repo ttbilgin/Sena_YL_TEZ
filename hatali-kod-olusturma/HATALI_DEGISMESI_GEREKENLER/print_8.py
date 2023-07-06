@@ -1,0 +1,2 @@
+prnt('Merhaba!')
+print('Python')
